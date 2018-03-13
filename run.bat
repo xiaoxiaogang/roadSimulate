@@ -1,1 +1,1 @@
-set DEBUG=myapp & npm start
+set DEBUG=roadSimulate & npm start
