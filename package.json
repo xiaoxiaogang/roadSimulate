@@ -7,16 +7,24 @@
   },
   "dependencies": {
     "body-parser": "~1.17.1",
+    "cheerio": "^1.0.0-rc.2",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
+    "ejs": "^2.5.7",
     "express": "~4.15.2",
+    "htmlparser2": "^3.9.2",
     "jade": "~1.11.0",
     "morgan": "~1.8.1",
     "serve-favicon": "~2.4.2"
   },
   "devDependencies": {
     "css-loader": "^0.28.5",
+    "css-select": "^2.0.0",
+    "dom-serializer": "^0.1.0",
+    "grunt-contrib-jshint": "^1.1.0",
     "less-loader": "^4.0.5",
-    "style-loader": "^0.18.2"
+    "parse5": "^4.0.0",
+    "style-loader": "^0.18.2",
+    "superagent": "^3.8.2"
   }
 }

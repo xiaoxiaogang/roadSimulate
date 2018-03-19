@@ -3,7 +3,7 @@
 > A express service project
 
 ## 访问路径
-> http://10.5.106.33:3000/#/
+> http://10.5.106.76:3000/#/
 
 #start mode
 > click start
@@ -20,6 +20,10 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
+
+#run method
+set DEBUG=roadSimulate & npm start
+
 ```
 ######this is modify by gang.w, 2017.08.26
 
