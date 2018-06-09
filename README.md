@@ -30,7 +30,4 @@ set DEBUG=roadSimulate & npm start
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ###gihub相关账号信息
-https://github.com
-账号：xiaoxiaogang
-密码：xiaoxiao01
 
